@@ -1,4 +1,6 @@
 name: Jekyll site CI
+include: ["/.well-known" ]
+
 
 on:
   push:

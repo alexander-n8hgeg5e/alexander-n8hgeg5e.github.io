@@ -1,0 +1,2 @@
+#!/bin/sh
+curl 'https://mastodon.social/.well-known/webfinger?resource=acct:alexander_tc7x3k@mastodon.social' > .well-known/webfinger
